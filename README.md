@@ -1,13 +1,14 @@
 <div align="center">
    <h1>¡Hola! Mi nombre es Nick Fontecha</h1>
    <p>
-      Soy desarrollador full-stack con énfasis en back-end. Me encanta crear soluciones prácticas a problemas reales, siempre siguiendo los principios de Clean Code.
-      Aquí encontrarás una muestra de mi trabajo, habilidades y trayectoria. Además del código, disfruto la música, tocar guitarra, entrenar y los videojuegos de campaña.<br><br> Y aquí abajo puedes encontrarme:
+      Soy desarrollador full-stack, cuento con 5 años de experiencia certificada, con una fuerte inclinación hacia el back-end y la arquitectura de aplicaciones. Me gusta crear sistemas prácticos, útiles y pensados para resolver necesidades reales de negocios: inventario, clientes, facturación, reportes y automatizaciones.
+
+Disfruto trabajar con buenas prácticas, patrones claros y Clean Code. Creo en soluciones simples, mantenibles y con impacto.<br><br> Y aquí abajo puedes encontrarme:
    </p>
    <p>
+      <a href="https://nick-fontecha-portfolio.web.app/" target="_blank"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-E6F7FF.svg?&style=plastic" /></a>
       <a href="https://www.linkedin.com/in/nick-fontecha/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0076B2.svg?&style=plastic" /></a>
       <a href="https://github.com/NickSealer" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=plastic&logo=Github&logoColor=white" /></a>
-      <a href="https://nick-fontecha-portfolio.web.app/" target="_blank"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-E6F7FF.svg?&style=plastic" /></a>
    </p>
    <hr>
    <p align="center">
@@ -45,12 +46,12 @@
    <p>
       <img src="https://skillicons.dev/icons?i=ruby" title="Ruby"/>
       <img src="https://skillicons.dev/icons?i=rails" title="Ruby on Rails"/>
-      <img src="https://skillicons.dev/icons?i=py" title="Python"/>
-      <img src="https://skillicons.dev/icons?i=django" title="Django"/>
       <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL"/>
    </p>
    <h3>Front-end</h3>
    <p>
+      <img src="https://skillicons.dev/icons?i=angular" title="Angular"/>
+      <img src="https://skillicons.dev/icons?i=typescript" title="TypeScript"/>
       <img src="https://skillicons.dev/icons?i=react" title="React"/>
       <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
       <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/>
